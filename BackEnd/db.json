@@ -1,0 +1,348 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Diamond"
+    },
+    {
+      "id": 2,
+      "nama": "Starlight"
+    },
+    {
+      "id": 3,
+      "nama": "Joki"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "D-01",
+      "nama": "5 Diamond",
+      "harga": 1500,
+      "is_ready": true,
+      "gambar": "50_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "D-02",
+      "nama": "17 Diamond",
+      "harga": 5800,
+      "is_ready": true,
+      "gambar": "50_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "D-03",
+      "nama": "25 Diamond",
+      "harga": 8300,
+      "is_ready": true,
+      "gambar": "50_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "D-04",
+      "nama": "40 Diamond",
+      "harga": 12500,
+      "is_ready": true,
+      "gambar": "50_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "D-05",
+      "nama": "53 Diamond",
+      "harga": 16500,
+      "is_ready": true,
+      "gambar": "60_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "D-06",
+      "nama": "77 Diamond",
+      "harga": 2400,
+      "is_ready": true,
+      "gambar": "60_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "D-07",
+      "nama": "154 Diamond",
+      "harga": 48000,
+      "is_ready": true,
+      "gambar": "150_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "D-08",
+      "nama": "217 Diamond",
+      "harga": 68000,
+      "is_ready": true,
+      "gambar": "150_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "D-09",
+      "nama": "256 Diamond",
+      "harga": 84000,
+      "is_ready": true,
+      "gambar": "150_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "D-010",
+      "nama": "503 Diamond",
+      "harga": 157000,
+      "is_ready": true,
+      "gambar": "500_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "D-011",
+      "nama": "1708 Diamond",
+      "harga": 522000,
+      "is_ready": true,
+      "gambar": "1500_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "D-012",
+      "nama": "4003 Diamond",
+      "harga": 1250000,
+      "is_ready": true,
+      "gambar": "5000_diamond.png",
+      "category": {
+        "id": 1,
+        "nama": "Diamond"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "S-01",
+      "nama": "Starlight Standart",
+      "harga": 160000,
+      "is_ready": true,
+      "gambar": "starlight_pass.png",
+      "category": {
+        "id": 2,
+        "nama": "Starlight"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "S-02",
+      "nama": "Starlight + 390 Diamond",
+      "harga": 275000,
+      "is_ready": true,
+      "gambar": "starlight_pass.png",
+      "category": {
+        "id": 2,
+        "nama": "Starlight"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "S-03",
+      "nama": "Starlight Member Plus",
+      "harga": 328000,
+      "is_ready": true,
+      "gambar": "starlight_pass.png",
+      "category": {
+        "id": 2,
+        "nama": "Starlight"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "S-04",
+      "nama": "Twilight Pass",
+      "harga": 160000,
+      "is_ready": true,
+      "gambar": "twilight_pass.png",
+      "category": {
+        "id": 2,
+        "nama": "Starlight"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "J-01",
+      "nama": "Joki Elite",
+      "harga": 2000,
+      "is_ready": true,
+      "gambar": "joki_elite.png",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    },
+    {
+      "id": 18,
+      "kode": "J-02",
+      "nama": "Joki Master",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "joki_master.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    },
+    {
+      "id": 19,
+      "kode": "J-03",
+      "nama": "Joki Grand Master",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "joki_grandmaster.png",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    },
+    {
+      "id": 20,
+      "kode": "J-04",
+      "nama": "Joki Epic",
+      "harga": 6000,
+      "is_ready": true,
+      "gambar": "joki_epic.png",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    },
+    {
+      "id": 21,
+      "kode": "J-05",
+      "nama": "Joki Legend",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "joki_legend.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    },
+    {
+      "id": 22,
+      "kode": "J-06",
+      "nama": "Joki Mythic",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "joki_mythic.png",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    },
+    {
+      "id": 23,
+      "kode": "J-07",
+      "nama": "Joki Glory",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "joki_glory.png",
+      "category": {
+        "id": 3,
+        "nama": "Joki"
+      }
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah": 2,
+      "total_harga": 11600,
+      "product": {
+        "id": 2,
+        "kode": "D-02",
+        "nama": "17 Diamond",
+        "harga": 5800,
+        "is_ready": true,
+        "gambar": "50_diamond.png",
+        "category": {
+          "id": 1,
+          "nama": "Diamond"
+        }
+      },
+      "id": 1
+    },
+    {
+      "jumlah": 2,
+      "total_harga": 3000,
+      "product": {
+        "id": 1,
+        "kode": "D-01",
+        "nama": "5 Diamond",
+        "harga": 1500,
+        "is_ready": true,
+        "gambar": "50_diamond.png",
+        "category": {
+          "id": 1,
+          "nama": "Diamond"
+        }
+      },
+      "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 8300,
+      "product": {
+        "id": 3,
+        "kode": "D-03",
+        "nama": "25 Diamond",
+        "harga": 8300,
+        "is_ready": true,
+        "gambar": "50_diamond.png",
+        "category": {
+          "id": 1,
+          "nama": "Diamond"
+        }
+      },
+      "id": 3
+    }
+  ],
+  "pesanans": []
+}
