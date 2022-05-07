@@ -291,58 +291,6 @@
       }
     }
   ],
-  "keranjangs": [
-    {
-      "jumlah": 2,
-      "total_harga": 11600,
-      "product": {
-        "id": 2,
-        "kode": "D-02",
-        "nama": "17 Diamond",
-        "harga": 5800,
-        "is_ready": true,
-        "gambar": "50_diamond.png",
-        "category": {
-          "id": 1,
-          "nama": "Diamond"
-        }
-      },
-      "id": 1
-    },
-    {
-      "jumlah": 2,
-      "total_harga": 3000,
-      "product": {
-        "id": 1,
-        "kode": "D-01",
-        "nama": "5 Diamond",
-        "harga": 1500,
-        "is_ready": true,
-        "gambar": "50_diamond.png",
-        "category": {
-          "id": 1,
-          "nama": "Diamond"
-        }
-      },
-      "id": 2
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 8300,
-      "product": {
-        "id": 3,
-        "kode": "D-03",
-        "nama": "25 Diamond",
-        "harga": 8300,
-        "is_ready": true,
-        "gambar": "50_diamond.png",
-        "category": {
-          "id": 1,
-          "nama": "Diamond"
-        }
-      },
-      "id": 3
-    }
-  ],
+  "keranjangs": [],
   "pesanans": []
 }
